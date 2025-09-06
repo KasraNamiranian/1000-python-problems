@@ -1,0 +1,5 @@
+R1 = int(input("Please enter R1: "))
+R2 = int(input("Please enter R2: "))
+R3 = int(input("Please enter R3: "))
+R = R1*R2*R3 / (R2*R3 + R1*R3 + R1*R2)
+print("R is: ",R)
