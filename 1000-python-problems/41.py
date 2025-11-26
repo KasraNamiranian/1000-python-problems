@@ -1,0 +1,14 @@
+a = int(input("Please enter 'A' value: "))
+b = int(input("Please enter 'b' value: "))
+sumation = a + b
+subtraction = a-b
+multiplication = a*b
+division = a/b
+power2 = a**2 + b**2
+power3 = a**3 + b**3
+print("a + b = ",sumation)
+print("a - b = ",subtraction)
+print("a * b = ",multiplication)
+print("a / b = ",division)
+print("a^2 + b^2 = ",power2)
+print("a^3 + b^3 = ",power3)
