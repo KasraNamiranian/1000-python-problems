@@ -1,0 +1,6 @@
+a = int(input("Enter a (integer): "))
+b = float(input("Enter b (float): "))
+c = input("Enter c (string): ")
+print("a type is ",type(a))
+print("b type is ",type(b))
+print("c type is ",type(c))
